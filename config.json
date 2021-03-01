@@ -1,0 +1,17 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_url":"mysql://root:@localhost/codingsage",
+        "prod_url":"mysql://xyz:@xyz/codingsage",
+        "fb_url":"https://facebook.com/thecodingsage",
+        "tw_url":"https://twitter.com/thecodingsage",
+        "gh_url":"https://github.com/thecodingsage",
+        "blog_name":"The Coding Sage",
+        "tagline":"My art of blogging",
+        "gmail-user":"waverider131@gmail.com",
+        "gmail-password":"add-password here",
+        "about-text":"Hi I am Rishabh Sharma and I am a full Stack Developer",
+        "no_of_post":5
+    }
+}
